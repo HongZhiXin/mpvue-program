@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/home/main",
+    "pages/storage/main",
     "pages/shoppingCart/main",
     "pages/submitOrder/main",
     "pages/me/main",
@@ -21,7 +22,17 @@
     "pages/protocol/main",
     "pages/feedback/main",
     "pages/pickProtocol/main",
-    "pages/orderDetail/main"
+    "pages/orderDetail/main",
+    "pages/storage/childPages/basic/main",
+    "pages/storage/childPages/goods/main",
+    "pages/storage/childPages/goodDetail/main",
+    "pages/storage/childPages/supplier/main",
+    "pages/storage/childPages/supplierGoods/main",
+    "pages/storage/childPages/supplierForm/main",
+    "pages/storage/childPages/intoStorgeRecord/main",
+    "pages/storage/childPages/goodIntoStorageForm/main",
+    "pages/storage/childPages/inventory/main",
+    "pages/storage/childPages/upDown/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
